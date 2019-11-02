@@ -143,4 +143,4 @@ if __name__ == "__main__":
 
         print(f"{i}/{len(mesas_list)}", end="\n")
 
-        meta_handler.main(mesa_id= "50996")
+        meta_handler.main(mesa_id = str(mesa))
