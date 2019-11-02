@@ -1,0 +1,1 @@
+test_image.jpg,'NoneType' object has no attribute 'items',This image https://trep.oep.org.bo/resul/imgActa/14551.jpg does not have exif
